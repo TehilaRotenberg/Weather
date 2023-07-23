@@ -1,0 +1,10 @@
+.container{
+    width: 60vh;
+  padding: 20px;
+}
+.card{
+  background: rgba(255, 255, 255, 0.322);
+}
+.alert{
+  width: 40vh;
+}
